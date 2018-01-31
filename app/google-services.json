@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "992048943726",
+    "firebase_url": "https://mychat-d5113.firebaseio.com",
+    "project_id": "mychat-d5113",
+    "storage_bucket": "mychat-d5113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992048943726:android:c0c28d09f4c9c641",
+        "android_client_info": {
+          "package_name": "com.quaticstech.mychat.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992048943726-blcpvgm2v3714mgmmu55a5pm2v8ngld3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quaticstech.mychat.mychat",
+            "certificate_hash": "3d432a589fc2095cde77ebd8b90a53392aa14f71"
+          }
+        },
+        {
+          "client_id": "992048943726-lnpmggjb1cp44f96f5djp39ncs23mmu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTa9knPx80Jv6r6R2Y0OdEUSdwL2Pp3Rc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992048943726-lnpmggjb1cp44f96f5djp39ncs23mmu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
